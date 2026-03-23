@@ -32,5 +32,8 @@ Esse tratamento melhora a experiência do usuário, pois:
 
 ## 📸 Evidências
 
-- evidencia-sucesso.png
-- evidencia-erro.png
+### ✔️ Caminho Feliz
+![Sucesso](evidencia-sucesso.png)
+
+### ❌ Caminho do Erro
+![Erro](evidencia-erro.png)
